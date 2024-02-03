@@ -42,11 +42,11 @@ The project will produce the following deliverables:
 
 ## 5. Preliminary Budget
 
-The estimated budget for this project is 500 $ , which includes expenses related to development, testing, and deployment.
+The estimated budget for this project is 500$ , which includes expenses related to development, testing, and deployment.
 
 ### 5.1 Total Estimated Cost
 
-The total estimated cost is 850 $.
+The total estimated cost is 850$.
 
 ## 6. Organization and Stakeholders
 
