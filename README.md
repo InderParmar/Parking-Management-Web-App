@@ -16,7 +16,7 @@ The key objectives of this project are as follows:
 - Enable users to select a parking lot, enter the number of hours, and calculate parking costs.
 - Implement an administrative login page for authorized access.
 - Ensure the application is responsive and easy to use.
-- The project is scheduled to begin on [Start Date] and conclude by [End Date].
+- The project is scheduled to begin on Jan 25, 2023 and conclude by Feb 10,2023.
 
 ## 3. Milestones
 
@@ -42,7 +42,7 @@ The project will produce the following deliverables:
 
 ## 5. Preliminary Budget
 
-The estimated budget for this project is 500$ , which includes expenses related to development, testing, and deployment.
+The estimated budget for this project is 900$ , which includes expenses related to development, testing, and deployment.
 
 ### 5.1 Total Estimated Cost
 
