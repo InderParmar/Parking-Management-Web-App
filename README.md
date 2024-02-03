@@ -42,11 +42,11 @@ The project will produce the following deliverables:
 
 ## 5. Preliminary Budget
 
-The estimated budget for this project is [Budget Amount], which includes expenses related to development, testing, and deployment.
+The estimated budget for this project is 500 $ , which includes expenses related to development, testing, and deployment.
 
 ### 5.1 Total Estimated Cost
 
-The total estimated cost is **$[Total Cost]**.
+The total estimated cost is 850 $.
 
 ## 6. Organization and Stakeholders
 
@@ -54,10 +54,10 @@ The project team consists of the following roles and responsibilities:
 
 | Project Role       | Responsibilities                                   | Assigned to       |
 |--------------------|---------------------------------------------------|-------------------|
-| Project Manager    | Project planning, coordination, and oversight     | [Project Manager] |
-| Developers         | Web application development and coding              | [Developers]      |
-| Designers          | User interface and user experience design         | [Designers]       |
-| Quality Assurance  | Testing, bug identification, and quality assurance | [QA Team]         |
+| Project Manager    | Project planning, coordination, and oversight     | Inderpreet Singh |
+| Developers         | Web application development and coding              | Inderpreet Singh     |
+| Designers          | User interface and user experience design         | Inderpreet Singh     |
+| Quality Assurance  | Testing, bug identification, and quality assurance | Inderpreet Singh       |
 | End Users          | Individuals using the web application             | [End Users]       |
 
 ## 6.1 Stakeholder Management Matrix
